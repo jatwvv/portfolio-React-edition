@@ -1,0 +1,117 @@
+{
+  "projectList": [
+    {
+      "title": "Nux-Buy",
+      "link": "#",
+      "features": [
+        "HTML",
+        "CSS",
+        "Angular",
+        "TypeScript",
+        "Next.js",
+        "Bootstrap",
+        "RxJS"
+      ],
+      "year": 2024,
+      "id": 101
+    },
+    {
+      "title": "Weather App",
+      "link": "https://jatwvv.github.io/Weather_App/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 102
+    },
+    {
+      "title": "Makaan",
+      "link": "https://jatwvv.github.io/Makaan-DEPI-Project/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 103
+    },
+    {
+      "title": "Glint.",
+      "link": "https://jatwvv.github.io/Glint.-DEPI/",
+      "features": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "year": 2024,
+      "id": 104
+    },
+    {
+      "title": "Quick Quiz App",
+      "link": "https://jatwvv.github.io/QuizApp/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 105
+    },
+    {
+      "title": "CRUDS",
+      "link": "https://jatwvv.github.io/CRUDS/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 106
+    },
+    {
+      "title": "Bondi",
+      "link": "https://jatwvv.github.io/Bootstrap-No1_Bondi/",
+      "features": ["HTML", "CSS", "Bootstrap"],
+      "year": 2024,
+      "id": 107
+    },
+    {
+      "title": "Caroselling",
+      "link": "https://jatwvv.github.io/Caroselling/",
+      "features": ["HTML", "CSS"],
+      "year": 2024,
+      "id": 108
+    },
+    {
+      "title": "Chatbot",
+      "link": "https://jatwvv.github.io/Chatbot/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 109
+    },
+    {
+      "title": "Hangman - Game",
+      "link": "https://jatwvv.github.io/Hangman-Game/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 1010
+    },
+    {
+      "title": "To-Do list",
+      "link": "https://jatwvv.github.io/To-Do-list/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2024,
+      "id": 1011
+    },
+    {
+      "title": "Admin Dashboard",
+      "link": "https://jatwvv.github.io/Dashboard/",
+      "features": ["HTML", "CSS"],
+      "year": 2023,
+      "id": 1012
+    },
+    {
+      "title": "Krugo",
+      "link": "https://jatwvv.github.io/krugo/",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "year": 2023,
+      "id": 1013
+    },
+    {
+      "title": "Kasper",
+      "link": "https://jatwvv.github.io/kasper-repo/",
+      "features": ["HTML", "CSS","JavaScript"],
+      "year": 2023,
+      "id": 1014
+    },
+    {
+      "title": "Fuji",
+      "link": "https://jatwvv.github.io/fuji-template/",
+      "features": ["HTML", "CSS"],
+      "year": 2023,
+      "id": 1015
+    }
+  ]
+}

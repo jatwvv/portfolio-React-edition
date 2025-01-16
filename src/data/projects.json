@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "title": "Nux-Buy",
+      "link": "#",
+      "description": "Nex-Buy is a dynamic and user-friendly e-commerce platform designed to provide a seamless shopping experience for customers. With a focus on quality, affordability, and convenience, Nex-Buy offers a wide range of products across various categories, ensuring that users can find everything they need in one place. The website features an intuitive interface, secure payment options, and fast delivery services, making it the go-to destination for modern online shopping. Whether you're looking for the latest gadgets, trendy fashion, or essential household items, Nex-Buy has you covered.",
+      "cover": "../../public/img/nex-buy.jpeg",
+      "features": ["HTML", "CSS", "Angular", "TypeScript", "Next.js"],
+      "id": 101
+    },
+    {
+      "title": "Makaan",
+      "link": "https://jatwvv.github.io/Makaan-DEPI-Project/",
+      "description": "A collaborative masterpiece crafted by you and your four talented teammates. This dynamic website blends HTML, CSS, and JavaScript seamlessly to serve a noble purpose: helping users find their dream properties for sale or rent. Picture elegant property listings, interactive maps, and personalized filters. Whether it’s a cozy apartment.",
+      "cover": "../../public/img/mkan.png",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "id": 102
+    },
+    {
+      "title": "Quick Quiz App",
+      "link": "https://jatwvv.github.io/QuizApp/",
+      "description": "lightweight web application that lets users test their knowledge on various topics through interactive quizzes. Built with love and code, it combines frontend magic with data from an external API.",
+      "cover": "../../public/img/quizz.png",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "id": 103
+    },
+    {
+      "title": "CRUDS",
+      "link": "https://jatwvv.github.io/CRUDS/",
+      "description": "Web app for managing data using pure JavaScript. Users can create, read, update, and delete records—all without external APIs or databases. The minimalist interface keeps distractions at bay, and responsive design ensures usability across devices. Whether organizing to-do lists or tracking contacts, “JS-CRUDinator” simplifies data manipulation.",
+      "cover": "../../public/img/crud.jpeg",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "id": 104
+    },
+    {
+      "title": "Admin Dashboard",
+      "link": "https://jatwvv.github.io/Dashboard/",
+      "description": "This dashboard serves as a centralized hub for managing various aspects of an application or system, With my own created framework.",
+      "cover": "../../public/img/admin.png",
+      "features": ["HTML", "CSS"],
+      "id": 105
+    },
+    {
+      "title": "Krugo",
+      "link": "https://jatwvv.github.io/krugo/",
+      "description": "Crafted from HTML and CSS. Picture pastel hues, whimsical fonts, and mouthwatering images of gummy bears, chocolate truffles, and rainbow lollipops. The homepage welcomes visitors with a candy jar animation (because first impressions matter). Explore our virtual shelves, from nostalgic classics to exotic confections.",
+      "cover": "../../public/img/krugo.png",
+      "features": ["HTML", "CSS", "JavaScript"],
+      "id": 106
+    }
+  ]
+}
